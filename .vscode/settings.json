@@ -1,0 +1,30 @@
+{
+  "workbench.colorTheme": "Community Material Theme Darker",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.accessibilityPageSize": 12,
+  "editor.formatOnPaste": true,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.formatOnSave": true,
+  "prettier.tabWidth": 2,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+  "prettier.semi": true,
+  "prettier.jsxBracketSameLine": true,
+  "prettier.printWidth": 100,
+  "emmet.triggerExpansionOnTab": true,
+  "bracketPairColorizer.depreciation-notice": false,
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "explorer.confirmDelete": false,
+  "liveSassCompile.settings.generateMap": false,
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "expanded",
+      "autoprefix": "last 5 versions",
+      "extensionName": ".css",
+      "savePath": "css"
+    }
+  ]
+}
