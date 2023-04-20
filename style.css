@@ -37,16 +37,16 @@ body {
 }
 
 .task__list {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 
 .task__item {
-  list-style:none;
+  list-style: none;
 }
 
-.task__input,.task__button{
-  outline:none;
+.task__input, .task__button{
+  outline: none;
 }
 
 .task__button {
@@ -149,19 +149,19 @@ body {
 
 /* Edit Task */
 .task__input[type="text"] {
-  display:none;
+  display: none;
 }
 
 .task__input[type="text"] {
-  display:inline-block;
-  width:224px;
+  display: inline-block;
+  width: 224px;
 }
 
 .task__label {
-  display:none;
+  display: none;
 }
 
-@media (max-width:768px) {
+@media (max-width: 768px) {
 
   .header {
     text-align: center;
