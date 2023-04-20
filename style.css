@@ -45,7 +45,8 @@ body {
   list-style: none;
 }
 
-.task__input, .task__button{
+.task__input, 
+.task__button{
   outline: none;
 }
 
