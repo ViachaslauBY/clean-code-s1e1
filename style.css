@@ -29,7 +29,7 @@ body {
 .task {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .task__wrapper {
@@ -128,7 +128,7 @@ body {
 }
 
 .task__input[type="text"] {
-  width: 226px
+  width: 226px;
 }
 
 .delete__img {
@@ -143,18 +143,18 @@ body {
 
 /* Completed */
 .task__list2 .task__label {
-  text-decoration: line-through
+  text-decoration: line-through;
   color: #888;
 }
 
 /* Edit Task */
 .task__input[type="text"] {
-  display:none
+  display:none;
 }
 
 .task__input[type="text"] {
   display:inline-block;
-  width:224px
+  width:224px;
 }
 
 .task__label {
@@ -166,5 +166,5 @@ body {
   .header {
     text-align: center;
   }
-  
+
 }
