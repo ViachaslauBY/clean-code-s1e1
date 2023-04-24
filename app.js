@@ -12,7 +12,7 @@ const createNewTaskElement = taskString =>  {
     <label class="task__label">${taskString}</label>
     <input class="task__input input__edit" type="text">
     <button class="task__button button__edit">Edit</button>
-    <button class="task__button button__delete"><img class="delete__img" src="remove.svg"></button>
+    <button class="task__button button__delete"><img class="delete__img" src="remove.svg" alt="Button remove"></button>
   `
   return listItem;
 }
